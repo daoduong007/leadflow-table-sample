@@ -6,7 +6,13 @@ A small Next.js + TypeScript starter for developers building their own lead dash
 
 Try the [live demo](https://leadflow-table-sample.daotungduong-photos2.chatgpt.site). Download the original v0.1.0 ZIP from the demo, or clone this repository for the current README. No email or purchase required.
 
-See [project progress](PROJECT_PROGRESS.md) for the current product and release status. The separate UI Kit v0.1.0 has been prepared locally; its seller setup and checkout/delivery checks are pending.
+## Full LeadFlow UI Kit
+
+Need a connected table, detail and Kanban flow? [View LeadFlow UI Kit v0.1.1 on Gumroad — $29 USD, one-time](https://daoduong007.gumroad.com/l/leadflow-ui-kit).
+
+The paid kit adds pagination, row/page selection, bulk status changes and shared edits across the three views. Includes source, setup/customization guides and a short silent walkthrough. It uses mock data; backend, authentication and persistence are not included. Includes 14 days of defect/setup support and a 14-day money-back guarantee; see the listing for scope and license terms. Gumroad may display the price in your local currency.
+
+This free sample works independently and requires no purchase. See [project progress](PROJECT_PROGRESS.md) for release status.
 
 ## Plans and project documents
 
@@ -69,7 +75,7 @@ Does your current project need only a table, or a connected table/detail/pipelin
 
 ## License and assets
 
-Original sample code is MIT licensed; see `LICENSE`. Dependency licenses remain their own; this license does not replace them. No external font, image or icon asset is bundled. The separate paid kit has been built locally, but its demand and proposed price remain unvalidated. It is not included or available for purchase through this sample.
+Original sample code is MIT licensed; see `LICENSE`. Dependency licenses remain their own; this license does not replace them. No external font, image or icon asset is bundled. The paid kit is sold separately and has its own license; paid source and delivery files are not included in this repository. Demand and pricing have not yet been validated by real sales.
 
 Stack versions are locked in `package-lock.json`. Installation approach follows the [official Next.js documentation](https://nextjs.org/docs/app/getting-started/installation).
 

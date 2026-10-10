@@ -208,6 +208,22 @@ export default function LeadTable() {
         </div>
       </section>
 
+      <section className="kit-offer" aria-labelledby="kit-title">
+        <div>
+          <span className="eyebrow">GO BEYOND THE TABLE</span>
+          <h2 id="kit-title">Connect your table, detail and pipeline.</h2>
+          <p>
+            The paid LeadFlow UI Kit adds pagination, selection, bulk status
+            changes and shared edits across three views. Includes source,
+            setup guides and a walkthrough. Uses mock data; backend and
+            persistence are not included.
+          </p>
+        </div>
+        <a className="kit-link" href="https://daoduong007.gumroad.com/l/leadflow-ui-kit">
+          View full UI Kit — $29 <span aria-hidden="true">↗</span>
+        </a>
+      </section>
+
       <footer id="about" className="about">
         <div>
           <span className="eyebrow">A STARTING POINT, READY TO ADAPT</span>
