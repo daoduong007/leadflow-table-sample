@@ -6,6 +6,8 @@ A small Next.js + TypeScript starter for developers building their own lead dash
 
 Try the [live demo](https://leadflow-table-sample.daotungduong-photos2.chatgpt.site). Download the original v0.1.0 ZIP from the demo, or clone this repository for the current README. No email or purchase required.
 
+See [project progress](PROJECT_PROGRESS.md) for the current product and release status. The separate UI Kit v0.1.0 has been prepared locally; its seller setup and checkout/delivery checks are pending.
+
 ## Run locally
 
 Use Node.js **20.9 or newer** and npm. Tested with Node 20.20.2.
@@ -63,7 +65,7 @@ Does your current project need only a table, or a connected table/detail/pipelin
 
 ## License and assets
 
-Original sample code is MIT licensed; see `LICENSE`. Dependency licenses remain their own; this license does not replace them. No external font, image or icon asset is bundled. The paid kit is still a hypothesis and is not included or available for purchase through this sample.
+Original sample code is MIT licensed; see `LICENSE`. Dependency licenses remain their own; this license does not replace them. No external font, image or icon asset is bundled. The separate paid kit has been built locally, but its demand and proposed price remain unvalidated. It is not included or available for purchase through this sample.
 
 Stack versions are locked in `package-lock.json`. Installation approach follows the [official Next.js documentation](https://nextjs.org/docs/app/getting-started/installation).
 
