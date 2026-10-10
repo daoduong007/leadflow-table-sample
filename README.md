@@ -8,6 +8,10 @@ Try the [live demo](https://leadflow-table-sample.daotungduong-photos2.chatgpt.s
 
 See [project progress](PROJECT_PROGRESS.md) for the current product and release status. The separate UI Kit v0.1.0 has been prepared locally; its seller setup and checkout/delivery checks are pending.
 
+## Plans and project documents
+
+The [project documents](project-docs/README.md) include the original and current plans, research, implementation notes, recorded QA, kit usage documentation, and draft sales/marketing materials. The Word/PDF files preserve the original plan. Paid kit source, delivery ZIP and video are separate and are not included here.
+
 ## Run locally
 
 Use Node.js **20.9 or newer** and npm. Tested with Node 20.20.2.

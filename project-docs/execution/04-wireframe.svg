@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Lead Dashboard UI Kit — static validation wireframe</title>
+<desc id="desc">Three proposed screens: lead table, detail and pipeline. All use fictional lead Mina from Northstar. This image is a static mockup, not a working app.</desc>
+<style>text{font-family:Arial,sans-serif;fill:#183047}.muted{fill:#64748b;font-size:13px}.head{font-size:19px;font-weight:700}.body{font-size:14px}.tiny{font-size:12px}.box{fill:white;stroke:#cbd5e1}.soft{fill:#f1f5f9;stroke:#dce4ed}.badge{fill:#dbeafe} .accent{fill:#1d4ed8}</style>
+<rect width="1200" height="650" fill="#f8fafc"/>
+<text x="30" y="40" font-size="25" font-weight="700">Lead Dashboard UI Kit</text>
+<text x="30" y="66" class="muted">VALIDATION WIREFRAME · Mock data · No backend · Static image · 10 Oct 2026</text>
+<rect x="30" y="94" width="1140" height="45" rx="8" fill="#e0f2fe"/>
+<text x="47" y="122" class="body">Hypothesis: one lead model connects the table, detail and pipeline. Changes reset on refresh in the proposed demo.</text>
+<rect x="30" y="165" width="440" height="380" rx="10" class="box"/>
+<text x="48" y="198" class="head">01 · Lead table</text>
+<rect x="48" y="216" width="244" height="35" rx="5" class="soft"/><text x="60" y="238" class="muted">Search name or company…</text>
+<rect x="303" y="216" width="148" height="35" rx="5" class="soft"/><text x="315" y="238" class="body">Status: All ▾</text>
+<rect x="48" y="267" width="403" height="32" class="soft"/>
+<text x="60" y="288" class="tiny">LEAD / COMPANY</text><text x="244" y="288" class="tiny">STATUS</text><text x="365" y="288" class="tiny">OWNER</text>
+<rect x="48" y="300" width="403" height="59" fill="#eff6ff"/>
+<text x="60" y="322" class="body">Mina Chen →</text><text x="60" y="343" class="muted">Northstar (fictional)</text>
+<rect x="240" y="314" width="94" height="25" rx="12" class="badge"/><text x="251" y="331" class="tiny">Qualified</text><text x="365" y="332" class="body">Alex</text>
+<text x="60" y="386" class="body">Sam Reed</text><text x="60" y="407" class="muted">Harbor (fictional)</text><text x="250" y="393" class="body">New</text><text x="365" y="393" class="body">Jordan</text>
+<path d="M48 421H451" stroke="#e2e8f0"/>
+<text x="60" y="447" class="body">Lena Park</text><text x="60" y="468" class="muted">Summit (fictional)</text><text x="250" y="454" class="body">Proposal</text><text x="365" y="454" class="body">Alex</text>
+<text x="48" y="513" class="muted">3 shown · Selected IDs stay explicit</text>
+<rect x="486" y="165" width="296" height="380" rx="10" class="box"/>
+<text x="504" y="198" class="head">02 · Lead detail</text>
+<text x="504" y="244" font-size="22" font-weight="700">Mina Chen</text><text x="504" y="269" class="muted">Northstar · Fictional record</text>
+<text x="504" y="310" class="muted">OWNER</text><text x="504" y="334" class="body">Alex</text>
+<text x="504" y="367" class="muted">STATUS</text><rect x="504" y="381" width="259" height="36" rx="5" class="soft"/><text x="517" y="405" class="body">Qualified ▾</text>
+<text x="504" y="453" class="body">Activity (sample)</text><text x="504" y="478" class="muted">• Mock lead created</text><text x="504" y="503" class="muted">• Mock status changed</text>
+<rect x="798" y="165" width="372" height="380" rx="10" class="box"/>
+<text x="816" y="198" class="head">03 · Pipeline</text>
+<rect x="816" y="218" width="103" height="293" rx="5" class="soft"/>
+<rect x="927" y="218" width="103" height="293" rx="5" class="soft"/>
+<rect x="1038" y="218" width="113" height="293" rx="5" class="soft"/>
+<text x="827" y="245" class="tiny">NEW</text><text x="937" y="245" class="tiny">QUALIFIED</text><text x="1048" y="245" class="tiny">PROPOSAL</text>
+<rect x="823" y="260" width="89" height="100" rx="5" class="box"/><text x="832" y="285" class="tiny">Sam Reed</text><text x="832" y="309" class="tiny">Harbor</text><text x="832" y="344" class="tiny">Move to… ▾</text>
+<rect x="934" y="260" width="89" height="100" rx="5" fill="#dbeafe" stroke="#93c5fd"/><text x="943" y="285" class="tiny">Mina Chen</text><text x="943" y="309" class="tiny">Northstar</text><text x="943" y="344" class="tiny">Move to… ▾</text>
+<rect x="1045" y="260" width="99" height="100" rx="5" class="box"/><text x="1054" y="285" class="tiny">Lena Park</text><text x="1054" y="309" class="tiny">Summit</text><text x="1054" y="344" class="tiny">Move to… ▾</text>
+<text x="816" y="529" class="tiny">Won / Lost columns omitted here for space</text>
+<path d="M250 564H980" stroke="#2563eb" stroke-width="2"/>
+<circle cx="250" cy="564" r="5" class="accent"/><circle cx="630" cy="564" r="5" class="accent"/><circle cx="980" cy="564" r="5" class="accent"/>
+<text x="30" y="606" class="body">Feedback: Does your current project need all three views? What do you still have to wire together yourself?</text>
+<text x="30" y="630" class="muted">Free sample: table only. Paid kit hypothesis: connected views + customization docs. No purchase or income claims.</text>
+</svg>

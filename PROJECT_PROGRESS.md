@@ -46,3 +46,7 @@ Kết quả QA trên là ghi nhận từ bước kit trước đó. Lần cập 
 Repo này chứa free sample và ghi chú tiến độ. Source/ZIP của UI Kit trả phí cùng các tài liệu vận hành local chưa được publish trong repo này.
 
 Sample và kit hiện đều là frontend với dữ liệu giả; không có backend, authentication, persistence hoặc CRM sync. Kit không bao gồm dịch vụ cài đặt/tùy biến hộ. Không có cam kết doanh thu hoặc mức tiết kiệm thời gian chưa đo.
+
+## Tài liệu dự án được công khai
+
+Theo yêu cầu người dùng, [project-docs](project-docs/README.md) bổ sung plan ban đầu (Markdown/Word/PDF), plan mới và tài liệu nghiên cứu, triển khai, QA, sử dụng kit, sales/marketing. Công khai bản nháp không có nghĩa đã mở bán hoặc đăng bài. Source/ZIP/video giao hàng của kit trả phí vẫn ở local.

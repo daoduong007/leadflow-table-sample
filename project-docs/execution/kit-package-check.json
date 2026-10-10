@@ -1,0 +1,8 @@
+{
+  "archive": "releases/leadflow-ui-kit-v0.1.0.zip (local only; not included in this repository)",
+  "sha256": "1548ad7d544c426d4ce6322a3c6f359a84bae3d13db6344f09f5911a8981e4e0",
+  "files": 27,
+  "bytes": 2669542,
+  "fresh_check_dir": "Temporary clean extraction used for the recorded QA; not included in this repository.",
+  "post_review_changes": "README.md and docs/WALKTHROUGH.md only; documented Demo state selection clearing."
+}
