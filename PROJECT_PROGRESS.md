@@ -12,7 +12,7 @@ Người dùng đã chọn bỏ qua bước lấy feedback trước khi build ki
 
 ### Video #3 và đồng bộ kênh — 11/10/2026
 
-Đã dựng và đăng video 45 giây về loading/error/empty/no-match states: https://youtu.be/H-nSNjv-F1g (Studio xác nhận đã đăng, checks không phát hiện vấn đề, playlist Frontend Builds). Handle kênh đổi từ `@tram2105-podcast` sang `@daoduong007` (đã xuất bản; handle cũ được YouTube giữ 14 ngày). Phụ đề EN đã tải nhưng chưa xác minh hiển thị. Chưa xử lý: playlist công khai “Podcast Chữa Lành | Trạm 21:05” và “nhạc việt”, và video podcast cũ vẫn công khai; chờ chủ sản phẩm quyết định (không xóa). Chưa có số liệu video mới. Chi tiết `project-docs/marketing/10-table-states-video.md`.
+Đã dựng và đăng video 45 giây về loading/error/empty/no-match states: https://youtu.be/H-nSNjv-F1g (Studio xác nhận đã đăng, checks không phát hiện vấn đề, playlist Frontend Builds). Handle kênh đổi từ `@tram2105-podcast` sang `@daoduong007` (đã xuất bản; handle cũ được YouTube giữ 14 ngày). Phụ đề EN đã tải nhưng chưa xác minh hiển thị. Đã ẩn (chuyển Riêng tư, không xóa, hoàn tác được) theo yêu cầu chủ sản phẩm: playlist “Podcast Chữa Lành | Trạm 21:05”, playlist “nhạc việt” và video podcast “Sự bình yên đến từ việc âm thầm nỗ lực.”; Studio xác nhận trạng thái Riêng tư lúc 11/10/2026. Chưa có số liệu video mới. Chi tiết `project-docs/marketing/10-table-states-video.md`.
 
 ### Audit đường đi — 11/10/2026
 
