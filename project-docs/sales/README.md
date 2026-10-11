@@ -1,14 +1,13 @@
-# Bộ chuẩn bị mở bán LeadFlow
+# Listing và giao hàng LeadFlow
 
-Ngày chuẩn bị: 10/10/2026. **Đây là bản nháp tài liệu; chưa có listing Gumroad, checkout hoặc đơn mua.**
+Sản phẩm đã mở bán: https://daoduong007.gumroad.com/l/leadflow-ui-kit — 29 USD một lần; hỗ trợ lỗi/setup và refund 14 ngày. Email: daoduong.007@gmail.com. Chưa có doanh thu thật được xác minh.
 
-1. `gumroad-listing.md`: nội dung tiếng Anh để đưa vào product editor, phù hợp ICP developer.
-2. `buyer-delivery.md`: nội dung đặt trong trang content dành cho người mua.
-3. `launch-checklist.md`: thao tác seller, cấu hình và kiểm tra giao file.
-4. `assets/`: ảnh chụp production thật của kit; dữ liệu đều là giả.
+File hiện hành: `D:/leadflow-releases/leadflow-ui-kit-v0.1.2.zip`; source private `D:/leadflow-ui-kit`. Gumroad giữ bản cũ v0.1.1 có nhãn Previous release; v0.1.2 đặt đầu danh sách. Không đưa ZIP/source trả phí vào repo public.
 
-File giao: `../releases/leadflow-ui-kit-v0.1.0.zip`. Giữ ZIP trả phí trong content dành cho người mua; không đưa lên repo sample hoặc thư mục download public của demo miễn phí.
+- `gumroad-listing.md`: mô tả và FAQ.
+- `buyer-delivery.md`: hướng dẫn giao file và cài đặt.
+- `assets/v0.1.2/`: bằng chứng cập nhật Gumroad.
+- `../execution/15-independent-tester.md`: lời mời, checklist và mẫu phản hồi.
+- `../execution/16-standalone-release-fix.md`: phát hiện dependency local, bản sửa, QA và hash tải lại.
 
-Giá dự kiến: 29 USD, thanh toán một lần. Chưa có bằng chứng về willingness to pay. Giá, refund policy và email hỗ trợ phải được xác nhận trước khi publish. Không thêm subscription, custom service hoặc email marketing workflow ở bản đầu.
-
-Trở ngại hiện tại: browser Gumroad chuyển tới màn hình đăng nhập. Chưa xem được seller status, KYC/payout hoặc product dashboard. Người dùng cần đăng nhập và cung cấp email hỗ trợ công khai; không lưu giấy tờ, credentials hoặc bank details vào workspace.
+Checkout/email/giao v0.1.1 đã test trước đó. v0.1.2 đã tải lại từ editor và đối chiếu hash; chưa thực hiện test purchase mới. Chưa có tester độc lập. Không gửi lời mời hay email marketing tự động.

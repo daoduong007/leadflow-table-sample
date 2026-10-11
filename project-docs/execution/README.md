@@ -1,5 +1,7 @@
 # Nhật ký thực hiện Lead Dashboard UI Kit
 
+**Cập nhật mới nhất:** kit v0.1.2 đã mở bán/giao qua Gumroad; ba bài Hashnode, hai video YouTube và một bài YouTube Community đã đăng. Bài #3 có ví dụ adapter độc lập (7 tests + typecheck đạt). Đã gửi lời mời T001 theo chỉ định của chủ sản phẩm; chờ đồng ý/cấp ZIP/feedback, chưa có tester độc lập hoặc sale thật được xác minh. Xem [nhật ký phân phối](../marketing/distribution-log.md), [vòng phản hồi/review](17-feedback-and-review.md), [patch v0.1.2](16-standalone-release-fix.md) và [tiến độ hiện tại](../../PROJECT_PROGRESS.md). Các bản ghi và bảng cũ bên dưới là lịch sử tại thời điểm lập, không phải trạng thái mới nhất.
+
 Ngày thực hiện: 10/10/2026. Các phần nghiên cứu được làm trước lịch; ngày trong plan là lịch tham chiếu, không phải ngày hoàn thành thực tế. Không quy đổi thời lượng dự kiến thành giờ đã làm.
 
 ## Trạng thái
@@ -22,7 +24,14 @@ Ngày thực hiện: 10/10/2026. Các phần nghiên cứu được làm trướ
 | Ngày 22–60 | Chưa thực hiện | Theo plan và quyết định tiếp theo |
 | Chuẩn bị nội dung ngày 23/30/31 | Có bản nháp bài connected views, mock-to-API và caption/kịch bản video; chưa đăng, chưa ghi video mới | [Bộ nội dung](../marketing/README.md) |
 
-## Thứ tự tiếp tục
+## Thứ tự tiếp tục hiện tại
+
+1. Thử cài độc lập tạm gác theo yêu cầu 11/10; không dùng T001 để chặn công việc tiếp theo.
+2. Review đợt A ngày 12–13/10, 17/10; đợt B ngày 13–14/10, 18/10 sau khoảng 19:25 Asia/Saigon. Xem [audit và bảng review](19-funnel-audit-and-review.md); lịch thủ công.
+3. Thu câu hỏi thật, chọn một bottleneck có bằng chứng; chỉ sửa/FAQ theo repro hoặc thông tin đủ rõ.
+4. Bài #4 đã đăng Hashnode và chia sẻ YouTube Community; video bổ trợ mới chưa dựng/upload. [Gói phân phối](../marketing/09-empty-error-publication.md).
+
+## Thứ tự cũ trước khi đăng nhập/mở bán (lịch sử)
 
 1. Người dùng đăng nhập Gumroad và cung cấp email hỗ trợ công khai. Browser hiện chuyển `/products` về login.
 2. Kiểm tra seller/KYC/payout; chỉ ghi trạng thái, không lưu giấy tờ/bank details vào thư mục này.
@@ -66,3 +75,13 @@ Theo yêu cầu người dùng, đã thêm `PROJECT_PROGRESS.md` vào repo sampl
 ## Công khai plan và tài liệu liên quan
 
 Theo yêu cầu tiếp theo của người dùng, chuẩn bị đưa plan gốc (Markdown, Word, PDF), plan hiện hành, nghiên cứu, thiết kế, QA, tài liệu sử dụng kit và bản nháp sales/marketing vào `project-docs/` của repo public. Đây là công khai tài liệu; chưa publish listing hoặc đăng bài lên kênh marketing. Mã nguồn kit trả phí, ZIP và video giao cho người mua vẫn ở local. Word/PDF là bản plan gốc, chưa được cập nhật theo plan mới.
+
+## Bước thử độc lập và sửa setup — 10/10/2026
+
+Xem `15-independent-tester.md` cho lời mời/checklist/mẫu phản hồi; `16-standalone-release-fix.md` cho patch v0.1.2 và kiểm tra ZIP độc lập. Chưa có tester hoặc phản hồi khách; bản sửa xuất phát từ audit của người tạo.
+
+## Baseline phân phối — 11/10/2026
+
+[18-first-baseline.md](18-first-baseline.md) ghi số liệu đọc trực tiếp Gumroad, YouTube và Hashnode, kỳ đo cùng giới hạn QA/delay. Chưa có phản hồi T001 khớp truy vấn Gmail; ZIP vẫn chờ đồng ý. Review 12–13/10 và 17/10 là lịch thủ công.
+
+- `19-funnel-audit-and-review.md`: audit mobile/sample/ZIP/listing/checkout ngày 11/10 và lịch review tách hai đợt.

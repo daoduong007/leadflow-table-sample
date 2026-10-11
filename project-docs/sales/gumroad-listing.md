@@ -1,17 +1,17 @@
-# Gumroad listing — draft, not published
+# Gumroad listing — published listing copy
 
 ## Editor fields
 
 - Product name: **LeadFlow — Lead Dashboard UI Kit**
 - Product type: digital download / source code.
-- Price: **US$29, one-time purchase** (proposed launch price).
+- Price: **US$29, one-time purchase** (current launch price).
 - Summary: A Next.js + TypeScript starter with a connected lead table, detail screen and Kanban pipeline for developers building CRM interfaces.
-- Suggested slug: `leadflow-ui-kit` (availability not checked).
+- Suggested slug: `leadflow-ui-kit` (published).
 - Call to action: use the platform's purchase button.
-- Version delivered: `v0.1.0`.
-- Seller support email: **required from seller before publishing**.
+- Version delivered: `v0.1.2`.
+- Seller support email: **daoduong.007@gmail.com**.
 
-## Product description — paste after support/refund terms are finalized
+## Product description — current copy
 
 ### Build a connected lead dashboard in Next.js
 
@@ -31,7 +31,7 @@ Use it as the UI foundation for an internal tool or a client project. Adapt the 
 - A short, silent screencast of the actual kit.
 - Unit and browser tests, source license and third-party notices.
 
-Delivery is a versioned ZIP: `leadflow-ui-kit-v0.1.0.zip`.
+Delivery is a versioned ZIP: `leadflow-ui-kit-v0.1.2.zip`.
 
 ### Try the free sample first
 
@@ -41,7 +41,7 @@ The public demo shows the **free table sample**. The paid kit adds pagination/se
 
 ### Requirements and scope
 
-You need JavaScript/React development skills, Node.js 20.9+ and npm. The bundled versions are Next.js 16.4.0 and React 19.3.0; the release was checked with Node.js 20.20.2 and Chromium desktop/mobile emulation. Start with `npm ci`, then `npm run dev`.
+You need JavaScript/React development skills, Node.js 20.9+ and npm. The bundled versions are Next.js 16.4.0 and React 19.3.0; the release was checked with Node.js 23.11.0 on Windows and Chromium desktop/mobile emulation. Start with `npm ci`, then `npm run dev`.
 
 This is a developer UI kit with 12 fictional records. It does not include backend, authentication, database, persistent saves, server-side pagination, CRM integrations, hosted accounts or installation services. Refresh resets edits. Loading/error states are demonstrations; no network request is made. Detail is a client view without its own URL. Table filters apply to the table; pipeline shows all records.
 
@@ -49,19 +49,29 @@ This is a developer UI kit with 12 fictional records. It does not include backen
 
 The original paid-kit license permits modification and use in personal, internal and commercial end products, including client projects. Employees/contractors may access it for those projects; modified source may be handed to the client as part of the end product. Redistribution or resale of the paid portions as a standalone template, starter or source bundle is prohibited. MIT-licensed free-sample portions and dependencies retain their own licenses. See the included `LICENSE.md` and `THIRD_PARTY_NOTICES.md` for full terms.
 
-### Support and updates — proposed sale terms
+### Support and updates
 
 For 14 days after purchase, support covers reproducible defects in the unmodified advertised kit and setup problems with the included lockfile and stated environment. Custom features, private API integrations, deployment work and extensively modified code are outside this scope. No guaranteed response time is offered.
 
-The purchase includes the delivered v0.1.0 files. Future versions, framework migrations and lifetime updates are not promised.
+The purchase includes the delivered v0.1.2 files. Future versions, framework migrations and lifetime updates are not promised.
 
 Contact the seller using the support email displayed on this listing and your purchase receipt. Include your kit version, Node/npm versions, browser, reproduction steps and expected/actual behavior. Remove secrets and real customer data from reports.
 
-### Refunds — proposed policy, seller must approve before publication
+### Refunds
 
 Request a full refund within 14 days of purchase by contacting the seller with your purchase email or receipt reference. Mandatory consumer rights and Gumroad's applicable policies still apply. Refund requests are handled by the seller through Gumroad; this kit does not provide an automatic refund system.
 
 ### FAQ
+
+**Do table filters apply to the pipeline?** No. Table filters affect the table only. Pipeline and summary metrics use all records. Selection survives page/filter changes; bulk status updates include hidden selected records. Clear selection when finished.
+
+
+**Do I need the free sample repo to install the kit?** No. v0.1.2 is a standalone ZIP with its own source and lockfile. Extract it and open the folder containing package.json before running npm ci.
+
+**What if PowerShell blocks npm.ps1?** Use npm.cmd ci and npm.cmd run dev -- --port 4322. You do not need to change your execution policy.
+
+**How do I update from v0.1.1?** Download v0.1.2 from your existing Gumroad purchase content and extract it into a new folder. It removes an unused local sample dependency; UI behavior is unchanged. No new purchase is required.
+
 
 **Can I use it for client work?** Yes, within the included source license. Handing over a client end product is permitted; distributing the standalone paid kit for unrelated reuse is not.
 
@@ -79,4 +89,4 @@ Request a full refund within 14 days of purchase by contacting the seller with y
 
 ## Listing media
 
-Use `assets/desktop-table.png`, `desktop-detail.png`, `desktop-pipeline.png`, and `mobile-detail.png` as actual product screenshots. Use the included `kit/docs/leadflow-walkthrough.webm` as the demonstration video where the editor supports it. No customer testimonial or performance/time-saving claim is included.
+Use `assets/v0.1.2/desktop-table.png`, `assets/v0.1.2/desktop-detail.png`, `assets/v0.1.2/desktop-pipeline.png`, and `assets/v0.1.2/mobile-detail.png` as actual product screenshots. Use the included `D:/leadflow-ui-kit/docs/leadflow-walkthrough.webm` as the demonstration video where the editor supports it. No customer testimonial or performance/time-saving claim is included.

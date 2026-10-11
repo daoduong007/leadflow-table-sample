@@ -4,3 +4,11 @@ test-results/
 playwright-report/
 *.tsbuildinfo
 .env*
+
+# Local account screenshots: keep out of the public sample repository.
+project-docs/sales/assets/gumroad-draft-preview.png
+project-docs/sales/assets/v0.1.*/gumroad-*.png
+project-docs/sales/assets/v0.1.*/hashnode-*.png
+project-docs/sales/assets/v0.1.*/youtube-*.png
+project-docs/sales/assets/v0.1.*/sample-purchase-cta.png
+project-docs/sales/assets/youtube-channel/*-published.png

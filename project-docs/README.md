@@ -20,6 +20,6 @@ Word/PDF giữ nguyên bản gốc, chưa cập nhật theo plan hiện hành.
 - [Bản nháp listing, giao hàng, checklist mở bán và ảnh preview](sales/README.md).
 - [Bản nháp bài viết, kịch bản video và nhật ký phân phối](marketing/README.md).
 
-Kit đã chuẩn bị ở local; seller/KYC, support contact và checkout/giao hàng còn chờ xác minh. Chưa mở bán, chưa đăng bài, chưa có dữ liệu doanh thu. Giá 29 USD và refund/support 14 ngày trong listing là đề xuất. Các tài liệu nghiên cứu và gate cũ được giữ để phản ánh lịch sử quyết định; người dùng đã chấp thuận bỏ qua gate feedback và tiếp tục build.
+Kit v0.1.2 đã mở bán trên Gumroad với giá 29 USD một lần, support/refund 14 ngày; test purchase v0.1.1 và email được người dùng xác nhận, ZIP v0.1.2 upload/tải lại từ seller editor khớp hash. Hashnode và YouTube đã đăng ngày 10/10; bài #4 và YouTube Community đăng ngày 11/10. Baseline và audit mobile/checkout đã ghi; thử cài độc lập tạm gác. Chưa có tester độc lập, sale thật hoặc payout thực tế được xác minh. Xem [tiến độ hiện tại](../PROJECT_PROGRESS.md) và [vòng phản hồi/review](execution/17-feedback-and-review.md). Các nghiên cứu và gate cũ được giữ để phản ánh lịch sử; chưa xem nhu cầu đã được kiểm chứng.
 
 File trong thư mục này là bản chụp tài liệu workspace tại thời điểm công khai. Repo sample có MIT license cho mã nguồn sample; tài liệu license kit mô tả phạm vi của gói trả phí riêng.

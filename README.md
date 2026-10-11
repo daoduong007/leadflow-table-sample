@@ -8,7 +8,7 @@ Try the [live demo](https://leadflow-table-sample.daotungduong-photos2.chatgpt.s
 
 ## Full LeadFlow UI Kit
 
-Need a connected table, detail and Kanban flow? [View LeadFlow UI Kit v0.1.1 on Gumroad — $29 USD, one-time](https://daoduong007.gumroad.com/l/leadflow-ui-kit).
+Need a connected table, detail and Kanban flow? [View LeadFlow UI Kit v0.1.2 on Gumroad — $29 USD, one-time](https://daoduong007.gumroad.com/l/leadflow-ui-kit).
 
 The paid kit adds pagination, row/page selection, bulk status changes and shared edits across the three views. Includes source, setup/customization guides and a short silent walkthrough. It uses mock data; backend, authentication and persistence are not included. Includes 14 days of defect/setup support and a 14-day money-back guarantee; see the listing for scope and license terms. Gumroad may display the price in your local currency.
 

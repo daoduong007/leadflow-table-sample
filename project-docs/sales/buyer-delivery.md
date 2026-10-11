@@ -1,10 +1,10 @@
-# LeadFlow UI Kit v0.1.0 — buyer content draft
+# LeadFlow UI Kit v0.1.2 — buyer content — published product
 
-Place this text alongside the uploaded paid ZIP in Gumroad's buyer content editor. It is not a public download page. Add the actual seller support email before publishing.
+Place this text alongside the uploaded paid ZIP in Gumroad's buyer content editor. It is not a public download page. Seller support email: daoduong.007@gmail.com.
 
 ---
 
-Thanks for choosing LeadFlow. Download **leadflow-ui-kit-v0.1.0.zip** from this content page and extract it. The folder contains source, documentation, tests, a short silent walkthrough video and license terms.
+Thanks for choosing LeadFlow. Download **leadflow-ui-kit-v0.1.2.zip** from this content page and extract it. The folder contains source, documentation, tests, a short silent walkthrough video and license terms.
 
 ## Start locally
 
@@ -15,7 +15,11 @@ npm ci
 npm run dev -- --port 4322
 ```
 
-Open `http://127.0.0.1:4322`. If that port is busy, choose another port.
+Open `http://127.0.0.1:4322`. If that port is busy, choose another port. On Windows PowerShell, use npm.cmd instead of npm for commands with -- --port if flags are dropped.
+
+This ZIP is standalone; the free sample repo is not required. Run commands in the inner folder containing `package.json`. On PowerShell use `npm.cmd ci` and `npm.cmd run dev -- --port 4322` if npm.ps1 is blocked. Keep the terminal running until you finish.
+
+Upgrading from v0.1.1? Download v0.1.2 from this same purchase content and extract into a new folder. No new purchase is needed.
 
 Read `README.md` first, then `docs/CUSTOMIZATION.md` and `docs/WALKTHROUGH.md`. The screencast is `docs/leadflow-walkthrough.webm`.
 
@@ -25,7 +29,7 @@ The included records are fictional. Demo edits reset on reload. This is a fronte
 
 ## Support
 
-Use the seller support contact shown on the listing/receipt. For reproducible defects or setup issues within the advertised 14-day support period, include your kit version, Node/npm versions, browser and steps to reproduce. Do not include passwords, API keys or real lead data. Custom features, API integration and deployment services are outside the purchase scope.
+Email daoduong.007@gmail.com for support. For reproducible defects or setup issues within the advertised 14-day support period, include your kit version, Node/npm versions, browser and steps to reproduce. Do not include passwords, API keys or real lead data. Custom features, API integration and deployment services are outside the purchase scope.
 
 The included `SUPPORT.md` describes the artifact's support boundaries. The listing gives the actual purchase support/refund contact and terms. No lifetime update or guaranteed response time is included.
 
@@ -35,4 +39,4 @@ Look for your Gumroad receipt, including your spam folder, and open **View conte
 
 ---
 
-Seller note: do not add a newsletter or marketing sequence automatically. Built-in receipt/content access is sufficient for v0.1.0.
+Seller note: do not add a newsletter or marketing sequence automatically. Built-in receipt/content access is sufficient for v0.1.2.

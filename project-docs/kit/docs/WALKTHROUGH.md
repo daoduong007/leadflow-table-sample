@@ -2,7 +2,11 @@
 
 ## 1. Set up
 
-Extract the purchased ZIP, enter `leadflow-ui-kit`, use Node 20.9+, run `npm ci`, then `npm run dev -- --port 4322`. Open localhost:4322. There are no environment variables or seller accounts needed to run the UI. Source and docs are local files; no subscription is involved in the kit.
+Extract the purchased ZIP, enter `leadflow-ui-kit`, use Node 20.9+, run `npm ci`, then `npm run dev -- --port 4322`. Open localhost:4322. In Windows PowerShell, use `npm.cmd run dev -- --port 4322` if npm drops the port flag. There are no environment variables or seller accounts needed to run the UI. Source and docs are local files; no subscription is involved in the kit.
+
+The ZIP is standalone; do not clone the free sample to run it. Confirm that your terminal is in the folder containing `package.json`. On PowerShell, use `npm.cmd ci` and `npm.cmd run dev -- --port 4322`. Keep the terminal running; stop it with Ctrl+C.
+
+Upgrading from v0.1.1? Download v0.1.2 from your existing purchase content and extract into a new folder. No new purchase is required.
 
 ## 2. Explore the table
 
@@ -18,7 +22,7 @@ Click Pipeline. Five columns represent the status array. Move Mina Chen with the
 
 ## 5. Preview states and reset
 
-Changing Demo state clears the current selection and exits detail. Choose Loading from Demo state: no fetch occurs, and the label describes a simulation. Choose Error and use Retry demo to return to ready. Choose Empty to preview a dataset-empty screen. Reset demo restores contacts, filters, selections and updates. Reload also resets data.
+Changing Demo state clears the current selection and exits detail. Choose Loading from Demo state: no fetch occurs, and the label describes a simulation. Choose Error and use Retry to return to ready. Choose Empty to preview a dataset-empty screen. Reset demo restores contacts, filters, selections and updates. Reload also resets data.
 
 ## 6. Customize safely
 

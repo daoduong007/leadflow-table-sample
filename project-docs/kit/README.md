@@ -1,4 +1,4 @@
-# LeadFlow — Lead Dashboard UI Kit v0.1.0
+# LeadFlow — Lead Dashboard UI Kit v0.1.2
 
 A Next.js + TypeScript source starter with a connected lead table, lead detail screen and Kanban pipeline. Plain CSS, 12 fictional records, client-side interactions. Designed for developers building their own CRM interface or internal dashboard.
 
@@ -13,7 +13,9 @@ npm ci
 npm run dev -- --port 4322
 ```
 
-Open <http://127.0.0.1:4322>. No account, API key or environment variable is required. From the original workspace, `cd kit` first. Choose a free port if 4322 is busy.
+The terminal must be inside the extracted folder containing `package.json` and `package-lock.json`. Check `node --version` and `npm --version` first. This ZIP is standalone: no free sample repo or sibling folder is required.
+
+Open <http://127.0.0.1:4322>. No account, API key or environment variable is required. Choose a free port if 4322 is busy.
 
 Production preview:
 
@@ -61,8 +63,14 @@ Browser tests start their own dev server on **4321** and refuse to reuse an exis
 
 ## Troubleshooting
 
+- ENOENT for package.json: enter the inner `leadflow-ui-kit` folder before running commands.
+- Upgrading from v0.1.1: download v0.1.2 from your existing Gumroad purchase content and extract into a new folder. No new purchase is needed. The update removes an unused local sample dependency.
+- PowerShell blocks npm.ps1: use `npm.cmd ci` and `npm.cmd run dev -- --port 4322`; no execution-policy change is needed.
+- Look for Ready in the dev terminal, then open http://127.0.0.1:4322. Keep that terminal running; stop it with Ctrl+C.
+
+
 - Use `npm ci` with the included lockfile; do not mix package managers.
-- If a port is occupied, use another port for manual preview; keep 4321 free for browser tests.
+- On Windows PowerShell, use `npm.cmd` instead of `npm` for commands with `-- --port` if flags are dropped. If a port is occupied, use another port for manual preview; keep 4321 free for browser tests.
 - A status change can remove a lead from the current filtered table; clear filters or open pipeline.
 - A bulk action affects all selected IDs, including off-page/filtered rows. Clear selection when finished.
 - Mobile tables/columns scroll horizontally. Keyboard users can focus the scroll container.
@@ -70,6 +78,5 @@ Browser tests start their own dev server on **4321** and refuse to reuse an exis
 
 See [license](LICENSE.md), [third-party notices](THIRD_PARTY_NOTICES.md), [support scope](SUPPORT.md) and [changelog](CHANGELOG.md). The free sample is independently available at <https://github.com/daoduong007/leadflow-table-sample>; it is not the full kit.
 
-## Ghi chú cho chủ sản phẩm
 
-Kit v0.1.0 đã được làm theo scope duyệt sau khi bỏ qua lấy feedback. Giá 29 USD là giả thuyết; kit chưa có listing, checkout, giao hàng tự động hoặc khách mua. Tài liệu/support policy mô tả bản đầu; thông tin liên hệ và điều kiện bán cần được thiết lập khi mở trang bán.
+Release v0.1.2 was rebuilt and checked on Windows with Node.js 23.11.0. See CHANGELOG.md for provenance. Seller support: daoduong.007@gmail.com. Final sale terms are on the Gumroad listing.

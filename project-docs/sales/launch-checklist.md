@@ -1,5 +1,8 @@
 # Listing → checkout → ZIP: checklist thực thi
 
+Cập nhật 11/10/2026: tài liệu phía dưới là snapshot/checklist lịch sử trước mở bán. Hiện listing đã publish, giá $29/support-refund 14 ngày đã chốt; test purchase v0.1.1 và email xác nhận, ZIP v0.1.2 tải lại từ seller editor khớp hash. Chưa xác minh KYC/payout thật hoặc sale thật. Trạng thái mới nhất ở [tiến độ](../../PROJECT_PROGRESS.md), [mở bán](../execution/13-gumroad-launch.md) và [patch v0.1.2](../execution/16-standalone-release-fix.md).
+
+
 Ngày: 10/10/2026. Các ô chưa đánh dấu chưa được thực hiện.
 
 ## Đã chuẩn bị local
