@@ -8,6 +8,7 @@ Cập nhật 10/10/2026: video công khai trên kênh người dùng chỉ đị
 
 | Ngày đăng | Kênh/bài URL thật | Nội dung | CTA | Lượt xem bài | Visit demo/listing | Đơn mua thật | Notes |
 |---|---|---|---|---|---|---|---|
+| 11/10/2026 | [YouTube — table states video](https://youtu.be/H-nSNjv-F1g) | 45s silent visual guide: loading / error / empty / no matches | Bài #4 Hashnode + free sample + Gumroad kit | Chưa đo | Chưa đo | Chưa đo đợt này | Studio xác nhận đã đăng, checks không phát hiện vấn đề; playlist Frontend Builds; phụ đề EN đã gửi, cần xác minh trên trang watch |
 | 11/10/2026 | [Hashnode — table states](https://daoduong007.hashnode.dev/react-table-loading-error-empty-states) | Loading/error/empty/filter, complete TypeScript component | Bài API + sample + GitHub + Gumroad | Chưa đo | Chưa đo | Chưa đo đợt này | Published/public xác minh; 4 code blocks, SEO, 3 tags, disclosure |
 | 11/10/2026 | [YouTube Community — table states](https://www.youtube.com/post/Ugkx4avTRBaTvePCn87xXSkZvWXPTL8usEUz) | Caption kỹ thuật + câu hỏi cho người xem | Bài #4 Hashnode | Chưa đo | Chưa đo | Chưa đo đợt này | Đã tạo bài đăng, permalink xác minh; 0 bình luận lúc QA; không phải video mới |
 | 10/10/2026 | [Hashnode — bài connected views](https://daoduong007.hashnode.dev/keep-a-lead-table-detail-view-and-kanban-board-in-sync-with-react) | Connected views | Video + free sample + Gumroad kit | Chưa đo | Chưa đo | Chưa có dữ liệu | Published xác nhận; code/link/ảnh/tags kiểm tra trên trang public |

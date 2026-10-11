@@ -10,6 +10,10 @@ Người dùng đã chọn bỏ qua bước lấy feedback trước khi build ki
 
 ## Trạng thái hiện tại
 
+### Video #3 và đồng bộ kênh — 11/10/2026
+
+Đã dựng và đăng video 45 giây về loading/error/empty/no-match states: https://youtu.be/H-nSNjv-F1g (Studio xác nhận đã đăng, checks không phát hiện vấn đề, playlist Frontend Builds). Handle kênh đổi từ `@tram2105-podcast` sang `@daoduong007` (đã xuất bản; handle cũ được YouTube giữ 14 ngày). Phụ đề EN đã tải nhưng chưa xác minh hiển thị. Chưa xử lý: playlist công khai “Podcast Chữa Lành | Trạm 21:05” và “nhạc việt”, và video podcast cũ vẫn công khai; chờ chủ sản phẩm quyết định (không xóa). Chưa có số liệu video mới. Chi tiết `project-docs/marketing/10-table-states-video.md`.
+
 ### Audit đường đi — 11/10/2026
 
 Đã kiểm tra mobile 390×844: tìm/lọc/xóa lọc đúng, trang sample/listing không tràn ngang, ZIP miễn phí tải được và integrity đạt (16 entries), CTA tới đúng listing và checkout US$29. QA creator, không thanh toán hoặc thử cài mới. Đã chuẩn bị bảng review riêng đợt A (12–13/10, 17/10) và B (13–14/10, 18/10 sau khoảng 19:25); lịch thủ công. Xem `project-docs/execution/19-funnel-audit-and-review.md`.
