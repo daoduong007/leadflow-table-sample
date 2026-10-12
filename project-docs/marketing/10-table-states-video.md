@@ -1,6 +1,6 @@
 # Video #3 — table loading/error/empty states
 
-Rendered and **published 11/10/2026**: https://youtu.be/H-nSNjv-F1g (Studio confirmed “Đã đăng video”, checks found no issues, playlist Frontend Builds, English, not made for kids, thumbnail applied). English SRT upload showed the toast “Đã tải phụ đề Tiếng Anh lên” but the Studio translations table still listed no subtitle row at last check; verify on the watch page. Original 45-second silent visual guide with six instructional cards, following the script in `09-empty-error-publication.md`. It is not a screen recording of a running UI, and no terminal output is shown. No music, synthetic narration or third-party footage.
+Rendered and **published 11/10/2026**: https://youtu.be/H-nSNjv-F1g (Studio confirmed “Đã đăng video”, checks found no issues, playlist Frontend Builds, English, not made for kids, thumbnail applied). English captions verified on the public watch page 12/10/2026: caption tracks `en` (English) and `en-US` (English (United States)) are present. The first SRT uploads (video-language route) showed a success toast but produced no public track; the working route was Languages → Add language → English (United States) → Subtitles → Upload file → Publish. Original 45-second silent visual guide with six instructional cards, following the script in `09-empty-error-publication.md`. It is not a screen recording of a running UI, and no terminal output is shown. No music, synthetic narration or third-party footage.
 
 ## Deliverables
 
@@ -50,4 +50,4 @@ Contact: daoduong.007@gmail.com
 
 Suggested metadata: English, Science & Technology, not made for kids, playlist “Frontend Builds — UI Walkthroughs”, landscape (not a Short).
 
-Public watch page not yet re-opened by the owner; no views or sales measured.
+No views or sales measured.
