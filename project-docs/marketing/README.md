@@ -1,6 +1,6 @@
 # Nội dung dẫn khách tới LeadFlow
 
-Cập nhật ngày 11/10/2026. **Đã đăng video YouTube**, bài #2 Hashnode đã đăng. Video trên kênh cá nhân người dùng chỉ định `@tram2105-podcast`: https://youtu.be/ZPnR-D8Gg-0. Listing Gumroad đã mở bán và test delivery đã đạt; chưa có sale thật hoặc số liệu hiệu quả phân phối.
+Cập nhật ngày 11/10/2026. **Đã đăng video YouTube**, bài #2 Hashnode đã đăng. Video trên kênh cá nhân người dùng chỉ định (nay là `@daoduong007`, trước đây `@tram2105-podcast`): https://youtu.be/ZPnR-D8Gg-0. Listing Gumroad đã mở bán và test delivery đã đạt; chưa có sale thật hoặc số liệu hiệu quả phân phối.
 
 Flow hiện tại: bài hữu ích → demo/sample miễn phí → kit trên Gumroad. Bài #2, #3 và #4 đã đăng; bài #4 được chia sẻ trên YouTube Community. Video walkthrough và setup/customization đã đăng. Bài #3 có parser, loader và hook retry độc lập, 7 adapter tests + typecheck đạt. URL và bằng chứng ở `distribution-log.md`; các bản nháp khác chưa rà soát lại toàn bộ theo trạng thái mở bán.
 

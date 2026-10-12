@@ -4,7 +4,7 @@
 
 Đã đăng bài Hashnode và video YouTube ngày **10/10/2026**. Baseline đọc trực tiếp 11/10 khoảng 19:10 Asia/Saigon: Gumroad 5 views / 0 sales / $0 trong kỳ 10–11/10; video setup 90 impressions, chưa có views; walkthrough 7 views ở danh sách Studio. Chưa loại QA hoặc xác định khách thật/attribution. Xem [baseline và giới hạn đo](../execution/18-first-baseline.md); bảng xuất bản dưới giữ trạng thái lúc đăng; Hashnode được bổ sung trong cập nhật 19:13.
 
-Cập nhật 10/10/2026: video công khai trên kênh người dùng chỉ định `@tram2105-podcast`, nay có tên “Đào Tùng Dương — Frontend Builds”. Có mô tả phân biệt free sample/paid kit, link demo/GitHub/Gumroad/Hashnode và thumbnail. Studio xác nhận xuất bản; checks hoàn tất không phát hiện vấn đề. Hashnode đã đăng bài connected views và kiểm tra public. Xem `05-distribution-plan.md` và `06-youtube-channel-profile.md`.
+Cập nhật 10/10/2026: video công khai trên kênh người dùng chỉ định (handle nay là `@daoduong007`, trước đây `@tram2105-podcast`), nay có tên “Đào Tùng Dương — Frontend Builds”. Có mô tả phân biệt free sample/paid kit, link demo/GitHub/Gumroad/Hashnode và thumbnail. Studio xác nhận xuất bản; checks hoàn tất không phát hiện vấn đề. Hashnode đã đăng bài connected views và kiểm tra public. Xem `05-distribution-plan.md` và `06-youtube-channel-profile.md`.
 
 | Ngày đăng | Kênh/bài URL thật | Nội dung | CTA | Lượt xem bài | Visit demo/listing | Đơn mua thật | Notes |
 |---|---|---|---|---|---|---|---|

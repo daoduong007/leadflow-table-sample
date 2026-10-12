@@ -2,7 +2,7 @@
 
 Status: applied 10/10/2026 after the owner signed in. YouTube confirmed profile changes saved. Public channel name, full description and all four links verified.
 
-Channel ID: UCOPkF2AXybRhWwzQUNIZTZA. Current handle: @tram2105-podcast. Keep the existing handle initially to preserve links already distributed; the display name and description can establish the new direction.
+Channel ID: UCOPkF2AXybRhWwzQUNIZTZA. Current handle: @daoduong007 (changed from @tram2105-podcast on 10/10/2026; YouTube keeps the old handle reserved for 14 days).
 
 ## Display name
 

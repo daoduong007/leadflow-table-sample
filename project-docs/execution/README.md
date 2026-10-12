@@ -29,7 +29,7 @@ Ngày thực hiện: 10/10/2026. Các phần nghiên cứu được làm trướ
 1. Thử cài độc lập tạm gác theo yêu cầu 11/10; không dùng T001 để chặn công việc tiếp theo.
 2. Review đợt A ngày 12–13/10, 17/10; đợt B ngày 13–14/10, 18/10 sau khoảng 19:25 Asia/Saigon. Xem [audit và bảng review](19-funnel-audit-and-review.md); lịch thủ công.
 3. Thu câu hỏi thật, chọn một bottleneck có bằng chứng; chỉ sửa/FAQ theo repro hoặc thông tin đủ rõ.
-4. Bài #4 đã đăng Hashnode và chia sẻ YouTube Community; video bổ trợ mới chưa dựng/upload. [Gói phân phối](../marketing/09-empty-error-publication.md).
+4. Bài #4 đã đăng Hashnode và chia sẻ YouTube Community; video bổ trợ đã dựng và đăng ngày 11/10 ([phụ đề EN xác minh 12/10](../marketing/10-table-states-video.md)). [Gói phân phối](../marketing/09-empty-error-publication.md).
 
 ## Thứ tự cũ trước khi đăng nhập/mở bán (lịch sử)
 

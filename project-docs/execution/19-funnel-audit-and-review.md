@@ -43,4 +43,4 @@ Mỗi snapshot ghi kỳ bắt đầu/kết thúc, thời điểm đọc, timezon
 
 ## Một quyết định ở lần review
 
-Hiện đường dẫn và thao tác được kiểm tra không có lỗi chặn. Giữ offer $29 và hai kênh. Ở kỳ review, nếu có câu hỏi cụ thể thì ưu tiên trả lời bằng ví dụ/docs; nếu dữ liệu vẫn ít, chọn một điều chỉnh nội dung/phân phối nhỏ có lý do, không mở thêm kênh hoặc thêm tính năng theo phỏng đoán. Kịch bản video #4 vẫn chưa dựng/upload; chọn thực hiện khi có ích cho phân phối hoặc được chủ sản phẩm yêu cầu.
+Hiện đường dẫn và thao tác được kiểm tra không có lỗi chặn. Giữ offer $29 và hai kênh. Ở kỳ review, nếu có câu hỏi cụ thể thì ưu tiên trả lời bằng ví dụ/docs; nếu dữ liệu vẫn ít, chọn một điều chỉnh nội dung/phân phối nhỏ có lý do, không mở thêm kênh hoặc thêm tính năng theo phỏng đoán. Video table-states đã dựng và đăng sau audit này (11/10, https://youtu.be/H-nSNjv-F1g; xem `../marketing/10-table-states-video.md`).

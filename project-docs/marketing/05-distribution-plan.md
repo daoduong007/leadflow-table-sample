@@ -1,6 +1,6 @@
 # Kênh phân phối đã chọn — 10/10/2026
 
-Trạng thái cập nhật 10/10/2026: đã đăng video công khai theo yêu cầu người dùng lên [Trạm 21:05](https://www.youtube.com/@tram2105-podcast): https://youtu.be/ZPnR-D8Gg-0. YouTube xác nhận đã đăng và hoàn tất checks không phát hiện vấn đề. Bài Hashnode đã đăng tại https://daoduong007.hashnode.dev/keep-a-lead-table-detail-view-and-kanban-board-in-sync-with-react; blog daoduong007.hashnode.dev đã tạo, chưa lên lịch bài khác. Chưa có số liệu traffic/đơn thật.
+Trạng thái cập nhật 10/10/2026: đã đăng video công khai theo yêu cầu người dùng lên kênh [Frontend Builds](https://www.youtube.com/@daoduong007) (trước đây Trạm 21:05, handle cũ `@tram2105-podcast`): https://youtu.be/ZPnR-D8Gg-0. YouTube xác nhận đã đăng và hoàn tất checks không phát hiện vấn đề. Bài Hashnode đã đăng tại https://daoduong007.hashnode.dev/keep-a-lead-table-detail-view-and-kanban-board-in-sync-with-react; blog daoduong007.hashnode.dev đã tạo, chưa lên lịch bài khác. Chưa có số liệu traffic/đơn thật.
 
 ## Quyết định
 
